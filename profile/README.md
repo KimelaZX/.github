@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2 align="center">  About me </h2>
 <li><b>Name:</b> Mikail</li>
 <li>
-<b>Nick:</b> KimelaZPrjkt,KimelaZX,gustmynuts
+<b>Nick:</b> KimelaZPrjkt, KimelaZX, gustmynuts
 </li>
 <li>
 <b>Loves:</b> to tinker with tech
