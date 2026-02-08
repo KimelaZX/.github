@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div>
 <h2 align="center">  About me </h2>
-<li><b>Name:</b> Mikail</li>
+<li><b>Name:</b> Kimela
 <li>
 <b>Nick:</b> KimelaZPrjkt, KimelaZX, gustmynuts
 </li>
