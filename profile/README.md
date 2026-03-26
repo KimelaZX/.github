@@ -37,11 +37,5 @@ Here are some ideas to get you started:
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/KimelaZX/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/KimelaZX/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/KimelaZX/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table> 
 
-<!-- Gah! u found my easter egg! u shouldnt be here... -->
-<!-- im not gonna be a prodev am i? im too retard for this. -->
-<!-- ive fullfiled someone wish for what? to hate me even more? -->
-<!-- why should i exist? what am i for? do i even useful? idk -->
-<!-- should i delete all accounts and forgot everything? -->
-<!-- bros mad because of a number XD! -->
 
 
